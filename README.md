@@ -28,3 +28,4 @@ MulRF is now ready to be executed by clicking MulRF.jar or running the command "
 
 Additionally MulRF tool is available at http://genome.cs.iastate.edu/CBL/MulRF/ along with a user manual. 
 
+For any question or concern email to Ruchi Chaudhary (http://www.clas.ufl.edu/users/ruchic/) at ruchic@ufl.edu.
