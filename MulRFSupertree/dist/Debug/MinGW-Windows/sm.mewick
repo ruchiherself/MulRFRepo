@@ -1,0 +1,5 @@
+(medeka_fish,(((lamprey,lamprey),(atlantic_salmon,(cobra,(((Xenopus,Xenopus),bull_frog),((horse,horse),(rabbit,((rat,rat,rat,rat),(((dog,(human,human)),(mouse,mouse)),((quail,chicken),((sheep,cow),(turtle,pig))))))))))),frog));
+[ Species Tree: Unrooted RF Score = 20]
+(chicken,(quail,(turtle,(((((((((medeka_fish,frog),lamprey),atlantic_salmon),cobra),(bull_frog,Xenopus)),horse),rabbit),rat),((((sheep,cow),(pig,dog)),human),mouse)))));
+
+[ Time 0d 0h 0m 0s ]

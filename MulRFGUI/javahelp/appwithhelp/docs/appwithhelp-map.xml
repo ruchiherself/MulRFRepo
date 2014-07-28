@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="2.0">
+    <mapID target="appwithhelp.about" url="content/appwithhelp-about.html"/>
+    <mapID target="geneTree" url="content/geneTree.html"/>
+    <mapID target="scoringFile" url="content/scoringFile.html"/>
+
+    <mapID target="strSpeciesGen" url="content/strSpeciesGen.html"/>
+    <mapID target="leafAdding" url="content/leafAdding.html"/>
+    
+    <mapID target="userSpecified" url="content/userSpecified.html"/>
+
+    <mapID target="outputFolder" url="content/outputFolder.html"/>
+    <mapID target="noReplicates" url="content/noReplicates.html"/>
+    <mapID target="constraintsFile" url="content/constraintsFile.html"/>
+
+    <mapID target="analyzing" url="content/analyzing.html"/>
+    <mapID target="randomSeed" url="content/randomSeed.html"/>   
+     
+</map>

@@ -1,0 +1,6 @@
+(tunicate,(plaice,(((dogfish,(cod,(fugu,(atlantic_salmon,atlantic_salmon)))),((lamprey,(lamprey,lamprey)),(lamprey,lamprey))),(((chicken,(((human,human),(human,human)),((mouse,(rat,rat)),(cow,dog)))),((rat,(rat,pig)),(dog,cow))),((chicken,chicken),(atlantic_salmon,(Xenopus,Xenopus)))))));
+(amphioxus,((Xenopus,Pacific_hagfish),(medeka_fish,((Alopias,((mouse,(Scleropus,(goose,turkey))),(Xenopus,Xenopus))),(Pacific_hagfish,(Alopias,((mouse,human),(Xenopus,((goose,turkey),(newt,salamander))))))))));
+[&U](tunicate,(((killifish,killifish),((Xenopus,(Xenopus,Xenopus)),(Scleropus,(((duck,chicken),(pigeon,pigeon)),((turtle,alligator),(mouse,(human,pig))))))),(killifish,(lamprey,(dogfish,(((human,fox),(mouse,rat)),((chicken,(Scleropus,(turtle,alligator))),((rabbit,(cow,pig)),((mouse,rat),human)))))))));
+[&U](((eel,((trout,(chum_salmon,(atlantic_salmon,(chum_salmon,Baikal_omul)))),(carp,catfish))),(sea_bass,(tilipia,tilipia))),(lungfish,(Japanese_toad,((((rabbit,horse),(cat,(pig,(whale,(cow,(sheep,goat)))))),((macaque,human),(hamster,(mouse,rat)))),(turtle,((turkey,chicken),(alligator,((alligator,crocodile),crocodile))))))));
+
+

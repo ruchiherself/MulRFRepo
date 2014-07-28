@@ -1,0 +1,35 @@
+[(((Alopias,(human,(newt,Pacific_hagfish))),amphioxus),(salamander,(goose,medeka_fish)));]
+
+[(Alopias,((Pacific_hagfish,goose),(human,(newt,(medeka_fish,salamander))))); ]
+
+[(goose,(medeka_fish,(newt,(human,salamander)))); ]
+
+[((amphioxus,(Xenopus,Pacific_hagfish)),(medeka_fish,((Alopias,goose),(newt,(human,salamander)))));]
+
+[((amphioxus,(Xenopus,Pacific_hagfish)),((Alopias,goose),(medeka_fish,(human,(newt,salamander)))));]
+
+
+[(amphioxus,((Xenopus,Alopias),(Pacific_hagfish,(newt,(human,medeka_fish)))));]
+
+[(Xenopus,((amphioxus,Alopias),((Pacific_hagfish,goose),(medeka_fish,(newt,(human,salamander))))));]
+
+
+
+(goose,(medeka_fish,(newt,(newt,Pacific_hagfish)))); 
+[(goose,(amphioxus,salamander));
+(human,(salamander,(medeka_fish,newt)));
+(goose,(amphioxus,salamander));]
+
+[((Alopias,newt),(goose,(amphioxus,salamander)));]
+
+
+
+
+
+
+
+
+
+
+
+

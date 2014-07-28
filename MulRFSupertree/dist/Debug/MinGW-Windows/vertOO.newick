@@ -1,0 +1,4 @@
+[ Species Tree: Unrooted RF Score = 315.00]
+(((skate,((rabbit,horse),((hamster,(rat,mouse)),((((whale,((quail,(goat,sheep)),cow)),(((crocodile,goldfish),alligator),(chicken,turkey))),((((((((((((electric_ray,cave_fish),turtle),white_sucker),dogfish),cod),newt),salamander),cat),tiger_salamander),pigeon),(tunicate,plaice)),fugu)),(guinea_pig,((((((fox,Sphoeroides),cherry_salmon),Japanese_toad),sea_bream),killifish),(((eel,((((zebrafish,catfish),carp),(amphioxus,goose)),(trout,(((((marmoset,Scleropus),Pacific_hagfish),inshore_hagfish),(((((lamprey,atlantic_salmon),cobra),duck),Japanese_lamprey),((goby,((mosquito_fish,(guppy,ostrich)),medeka_fish)),Baikal_omul))),chum_salmon)))),(((Xenopus,tilipia),sea_bass),(frog,bull_frog))),lungfish))))))),((((macaque,human),(dog,pig)),anole),Alopias)),gecko);
+
+[ Time 0d 0h 0m 59s ]

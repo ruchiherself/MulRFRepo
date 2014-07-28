@@ -1,0 +1,14 @@
+command: MulRFSupertree.exe -i vertebrates01.newick -o vertOO.newick
+input file: vertebrates01.newick
+output file: vertOO.newick
+seed: 1397234709
+Reading input trees: 1..9
+Input trees: 9
+Taxa: 73
+Input tree nodes: 489 (249 taxa)
+Building initial species tree...
+Elapsed time in building initial tree: 0s 
+
+Current RF Score: 391.00Current RF Score: 385.00Current RF Score: 379.00Current RF Score: 375.00Current RF Score: 371.00Current RF Score: 369.00Current RF Score: 367.00Current RF Score: 365.00Current RF Score: 361.00Current RF Score: 359.00Current RF Score: 357.00Current RF Score: 355.00Current RF Score: 353.00Current RF Score: 351.00Current RF Score: 349.00Current RF Score: 347.00Current RF Score: 345.00Current RF Score: 343.00Current RF Score: 339.00Current RF Score: 335.00Current RF Score: 333.00Current RF Score: 331.00Current RF Score: 329.00Current RF Score: 327.00Current RF Score: 325.00Current RF Score: 323.00Current RF Score: 321.00Current RF Score: 319.00Current RF Score: 317.00Current RF Score: 315.00Current RF Score: 315.00
+SPR neighborhood searches: 30
+Total elapsed time: 59s 

@@ -1,0 +1,34 @@
+[ Species Tree: Unrooted RF Score = 317.00]
+(tunicate,(plaice,((cod,cherry_salmon),((zebrafish,(((sea_bass,tilipia),(eel,(((goby,(medeka_fish,(guppy,mosquito_fish))),(trout,((Baikal_omul,atlantic_salmon),chum_salmon))),(carp,catfish)))),(amphioxus,(((newt,salamander),(((cat,(((fox,(dogfish,(((Japanese_lamprey,lamprey),(cobra,((((((((skate,goldfish),anole),inshore_hagfish),(marmoset,((Sphoeroides,(goat,Xenopus)),Pacific_hagfish))),fugu),white_sucker),(electric_ray,(((((bull_frog,frog),tiger_salamander),(((((quail,((crocodile,alligator),(turkey,chicken))),turtle),(whale,(guinea_pig,((hamster,(rat,mouse)),((((cow,sheep),(pig,dog)),(rabbit,horse)),(macaque,human)))))),ostrich),duck)),lungfish),Japanese_toad))),sea_bream))),Scleropus))),killifish),pigeon)),gecko),goose)),Alopias)))),cave_fish))));
+
+[ Gene Tree 0 MulRF Score = 128]
+[&WEIGHT=0.00](Sphoeroides,((((((((((((amphioxus,tunicate),(Pacific_hagfish,inshore_hagfish)),(lamprey,Japanese_lamprey)),((dogfish,skate),(Alopias,electric_ray))),(lungfish,(((newt,(tiger_salamander,salamander)),(Japanese_toad,(Xenopus,(frog,bull_frog)))),((((Scleropus,anole),(cobra,gecko)),(turtle,((crocodile,alligator),(ostrich,(pigeon,((goose,duck),((turkey,quail),chicken))))))),((whale,(pig,(cow,(goat,sheep)))),(rabbit,((marmoset,(macaque,human)),(horse,((guinea_pig,(hamster,(rat,mouse))),(cat,(fox,dog))))))))))),eel),cod),(((Baikal_omul,trout),((cherry_salmon,chum_salmon),atlantic_salmon)),((zebrafish,(white_sucker,(cave_fish,catfish))),(goldfish,carp)))),((((goby,guppy),mosquito_fish),killifish),medeka_fish)),plaice),(tilipia,(sea_bass,sea_bream))),fugu));
+
+[ Gene Tree 1 MulRF Score = 22]
+[&WEIGHT=1.00](Xenopus,((((((lamprey,lamprey),atlantic_salmon),cobra),((chicken,((rabbit,(horse,(human,((dog,pig),(sheep,cow))))),(rat,mouse))),(rat,((horse,human),(mouse,(rat,rat)))))),bull_frog),Xenopus));
+
+[ Gene Tree 2 MulRF Score = 52]
+[&WEIGHT=1.00](Xenopus,(((((killifish,(lamprey,(dogfish,(((human,fox),(mouse,rat)),((chicken,(Scleropus,(turtle,alligator))),((rabbit,(cow,pig)),((mouse,rat),human))))))),tunicate),(killifish,killifish)),(Scleropus,(((duck,chicken),(pigeon,pigeon)),((turtle,alligator),(mouse,(human,pig)))))),(Xenopus,Xenopus)));
+
+[ Gene Tree 3 MulRF Score = 28]
+[&WEIGHT=1.00](goat,(((((((((((((tilipia,tilipia),sea_bass),((((chum_salmon,(atlantic_salmon,(chum_salmon,Baikal_omul))),trout),(carp,catfish)),eel)),lungfish),Japanese_toad),(turtle,((turkey,chicken),(alligator,((alligator,crocodile),crocodile))))),((macaque,human),(hamster,(mouse,rat)))),(rabbit,horse)),cat),pig),whale),cow),sheep));
+
+[ Gene Tree 4 MulRF Score = 81]
+[&WEIGHT=1.00](goat,((((chicken,pigeon),(((chicken,(cave_fish,goldfish)),(((gecko,(anole,chicken)),(cave_fish,(goldfish,goldfish))),((Japanese_lamprey,lamprey),(anole,((skate,(eel,((cave_fish,(zebrafish,(goldfish,carp))),(Baikal_omul,(goby,(medeka_fish,(mosquito_fish,guppy))))))),((tiger_salamander,(Xenopus,(bull_frog,frog))),((alligator,chicken),(dog,((cow,sheep),((hamster,(mouse,rat)),(human,rabbit))))))))))),(goldfish,(Xenopus,(chicken,(human,(cow,(mouse,rat)))))))),((((chicken,anole),(goldfish,cave_fish)),(cave_fish,cave_fish)),gecko)),(human,(marmoset,human))));
+
+[ Gene Tree 5 MulRF Score = 41]
+[&WEIGHT=1.00](Xenopus,((((((tunicate,plaice),((((fugu,(atlantic_salmon,atlantic_salmon)),cod),dogfish),((lamprey,(lamprey,lamprey)),(lamprey,lamprey)))),((chicken,(((human,human),(human,human)),((mouse,(rat,rat)),(cow,dog)))),((rat,(rat,pig)),(dog,cow)))),(chicken,chicken)),atlantic_salmon),Xenopus));
+
+[ Gene Tree 6 MulRF Score = 0]
+[&WEIGHT=1.00](medeka_fish,(((turtle,(chicken,quail)),(mouse,(human,dog))),frog));
+
+[ Gene Tree 7 MulRF Score = 63]
+[&WEIGHT=1.00](Pacific_hagfish,(inshore_hagfish,((lamprey,(electric_ray,((lungfish,(Japanese_toad,frog)),((duck,(Japanese_toad,ostrich)),((lungfish,((horse,(human,((pig,(cow,(sheep,sheep))),(rat,mouse)))),((guinea_pig,((whale,(pig,(cow,sheep))),(human,human))),(mouse,rat)))),(ostrich,(chicken,duck))))))),((fugu,((white_sucker,white_sucker),cherry_salmon)),((white_sucker,(fugu,chum_salmon)),(chum_salmon,cherry_salmon))))));
+
+[ Gene Tree 8 MulRF Score = 30]
+[&WEIGHT=1.00](Xenopus,(((((Alopias,((mouse,(Scleropus,(goose,turkey))),(Xenopus,Xenopus))),(Pacific_hagfish,(Alopias,((mouse,human),(Xenopus,((goose,turkey),(newt,salamander))))))),medeka_fish),amphioxus),Pacific_hagfish));
+
+[ Gene Tree 9 MulRF Score = 0]
+[&WEIGHT=1.00](Sphoeroides,(sea_bream,sea_bream));
+
+[ Time 0d 0h 0m 13s ]

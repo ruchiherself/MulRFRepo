@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem text="MulRF Basics">
+       <tocitem text="About MulRF" target="appwithhelp.about"/>
+       <tocitem text="Gene Tree File" target="geneTree"/>
+       <tocitem text="Scoring File" target="scoringFile"/>
+
+       <tocitem text="Starting Species Tree Generation" target="strSpeciesGen"/>
+       <tocitem text="Leaf Adding" target="leafAdding"/>
+       <tocitem text="User Specified" target="userSpecified"/>
+
+       <tocitem text="Output Folder Name" target="outputFolder"/>
+       <tocitem text="No. of Replicates" target="noReplicates"/>
+       <tocitem text="Constraints File" target="constraintsFile"/>
+
+       <tocitem text="Random Seed" target="randomSeed"/>
+
+       <tocitem text="Inferring Species Tree" target="analyzing"/>
+
+    </tocitem>
+    
+</toc>

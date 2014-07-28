@@ -1,0 +1,8 @@
+((human,goose),(Alopias,(Xenopus,(newt,salamander)))); 
+
+(human,(Alopias,(human,((Xenopus,salamander),((newt,newt),salamander)))));
+
+(Alopias,(newt,(salamander,(Xenopus,((salamander,human),salamander)))));
+
+
+(salamander,(human,(Alopias,(Xenopus,newt,salamander))));
