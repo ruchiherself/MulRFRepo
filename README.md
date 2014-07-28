@@ -26,6 +26,6 @@ iii) For Mac: Rename the new executable InputStats as InputStatsMac, MulRFSupert
 
 MulRF is now ready to be executed by clicking MulRF.jar or running the command "java -jar MulRF.jar".
 
-Additionally MulRF tool is available at http://genome.cs.iastate.edu/CBL/MulRF/ along with a user manual. 
+Additionally, MulRF's binary is available at http://genome.cs.iastate.edu/CBL/MulRF/ along with a user manual. 
 
-For any question or concern email to Ruchi Chaudhary (http://www.clas.ufl.edu/users/ruchic/) at ruchic@ufl.edu.
+If you have any question or concern, email to Ruchi Chaudhary (http://www.clas.ufl.edu/users/ruchic/) at ruchic@ufl.edu! 
