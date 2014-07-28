@@ -24,5 +24,7 @@ ii) For Windows: Rename the new executable InputStats.exe as InputStatsWin.exe, 
 
 iii) For Mac: Rename the new executable InputStats as InputStatsMac, MulRFSupertree as MulRFSupertreeMac, and MulRFScorer as MulRFScorerMac.
 
-MulRF is now ready to be executed by clicking MulRF.jar or running the command "java -jar MulRF.jar"
+MulRF is now ready to be executed by clicking MulRF.jar or running the command "java -jar MulRF.jar".
+
+Additionally MulRF tool is available at http://genome.cs.iastate.edu/CBL/MulRF/ along with a user manual. 
 
